@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'leap'
   s.version     = '0.0.2'
-  s.date        = '08-09-2013'
+  s.date        = '2013-09-08'
   s.summary     = "Leap"
   s.description = "Leap"
   s.authors     = ["Kingsley Hendrickse","Zhenhua Chai"]
